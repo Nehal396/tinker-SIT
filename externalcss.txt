@@ -1,0 +1,13 @@
+<!-------change look of entire html document by using external css-------------->
+<!-------mystyle.css---------->
+body{
+backgorund-color:yellow;
+}
+h1{
+color:navy;
+margin-left:20px;
+}
+
+
+
+
